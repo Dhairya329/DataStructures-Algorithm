@@ -1,6 +1,7 @@
 ## 📘 Data Structures & Algorithm
+<br>
 
-# 🚀 LeetCode Daily Grind (Java)
+# # 🚀 LeetCode Daily Grind (Java)
 <br>						
 
 <p align="center">
