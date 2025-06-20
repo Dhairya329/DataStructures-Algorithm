@@ -2,10 +2,10 @@
 # 🚀 LeetCode Daily Grind (Java)
 <br>						      
 
-# This repository tracks my daily progress solving LeetCode problems in Java.
+#This repository tracks my daily progress solving LeetCode problems in Java.
 <br>
 
-# It's a focused effort to strengthen my DSA skills, improve problem-solving skills, and stay consistent in preparation for software engineering interviews.
+#It's a focused effort to strengthen my DSA skills, improve problem-solving skills, and stay consistent in preparation for software engineering interviews.
 <br>
 
 ## ⚙️ Tech Stack
