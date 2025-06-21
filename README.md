@@ -24,7 +24,7 @@
 
 ---
 ## 🎯 Goals
-- Solve one LeetCode problem daily
+- Solve one or more LeetCode problems daily
 - Improve DSA + problem-solving skills
 - Document and share clear, well-explained solutions
 - Prepare for top-tier software engineering roles
