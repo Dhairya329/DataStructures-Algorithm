@@ -11,7 +11,7 @@
 // Time complexity: O(log n)
 // Space complexity: O(1)
 
-class Solution {
+class Leetcode7 {
     static int reverse(int num) {
         int sum = 0;               // will store reverse number
         int copy = num;            // copy of the original number
