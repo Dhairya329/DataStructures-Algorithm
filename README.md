@@ -23,7 +23,6 @@ This is not just about solving problems — it’s about building a strong found
 - LeetCode
 - VS Code
 <br>
-
 ---
 ## 🎯 Goals
 - Solve one or more LeetCode problems daily
@@ -31,11 +30,9 @@ This is not just about solving problems — it’s about building a strong found
 - Document and share clear, well-explained solutions
 - Prepare for top-tier software engineering roles
 <br>
-
 ---
 ## 🔗 Connect with Me
 [LinkedIn]- https://www.linkedin.com/in/dhairya-gupta-55153a30b/
-
 <br>
 
 ---
