@@ -10,7 +10,7 @@
 // Time complexity: O(n)
 // Space complexity: O(1)
 
-class Solution {
+class Leetcode75 {
 
     // method to sort 
     static void sortColors(int[] arr) {
