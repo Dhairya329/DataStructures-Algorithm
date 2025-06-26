@@ -12,7 +12,7 @@
 
 // Boyer-Moore Majority Voting Algorithm
 
-class Solution {
+class Leetcode169 {
     static int majorityElement(int[] nums) {
         int count = 0;              // tracks balance of votes
         int candidate = 0;          // stores current majority guess
