@@ -8,10 +8,12 @@
   <strong> 💻 Code • ✅ Commit • 👑 Conquer </strong>
 </p>
 
-#This repository tracks my daily progress solving LeetCode problems in Java.
+Welcome to my LeetCode journey! This repository documents my commitment to solving Data Structures & Algorithm(DSA) problems in Java aiming for consistency, improvement, and exellence in coding interviews. 
 <br>
 
-#It's a focused effort to strengthen my DSA skills, improve problem-solving skills, and stay consistent in preparation for software engineering interviews.
+🧠 Why This Repo?
+<br>
+This is not just about solving problems — it’s about building a strong foundation, refining problem-solving strategies, and preparing for top-tier software engineering roles. Daily practice is my way of staying sharp, accountable, and focused.
 <br>
 
 ---
@@ -33,7 +35,6 @@
 ---
 ## 🔗 Connect with Me
 [LinkedIn]- https://www.linkedin.com/in/dhairya-gupta-55153a30b/
-
 <br>
 
 ---
