@@ -11,7 +11,7 @@
 // Time complexity: O(log n)
 // Space complexity: O(1)
 
- class Solution {
+ class Leetcode9 {
 
     // Method to check if a given integer is a palindrome
     static boolean isPalindrome(int num) {
