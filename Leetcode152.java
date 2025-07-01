@@ -10,7 +10,7 @@
 // Time complexity: O(n)
 // Space complexity: O(1)
 
-class Solution {
+class Leetcode152 {
     static int maxProduct(int[] arr) {
         int leftProduct = 1;    // Product from left side
         int rightProduct = 1;   // Product from right side
@@ -36,7 +36,7 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        
+
         int[] arr = { 2, 3, -2, 4 };
         System.out.println(maxProduct(arr)); 
     }
