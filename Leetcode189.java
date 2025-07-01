@@ -11,7 +11,7 @@
 // Time complexity: O(n)
 // Space complexity: O(1)
 
-class Solution {
+class Leetcode189 {
     static void rotate(int[] arr, int k) {
 
         int n = arr.length;
