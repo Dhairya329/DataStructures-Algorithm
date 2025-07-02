@@ -10,7 +10,7 @@
 // Time complexity: O(n)
 // Space complexity: O(n) for worst case
 
-class Solution {
+class Leetcode66 {
 
     static int[] plusOne(int[] arr) {
         int n = arr.length;
@@ -31,7 +31,7 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        
+
         int[] arr = { 9 };
         plusOne(arr);
     }
