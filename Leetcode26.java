@@ -14,7 +14,7 @@
 class Leetcode26 {
     
     static int removeDuplicates(int[] arr) {
-        int left = 0; // Pointer to track position of unique elements
+        int left = 0; // pointer to track position of unique elements
 
         // start from the second element
         for (int i = 1; i < arr.length; i++) {
