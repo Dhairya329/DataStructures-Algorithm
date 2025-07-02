@@ -11,7 +11,7 @@
 // Time complexity: O(n)
 // Space complexity: O(1)
 
-class Solution {
+class Leetcode26 {
     
     static int removeDuplicates(int[] arr) {
         int left = 0; // Pointer to track position of unique elements
