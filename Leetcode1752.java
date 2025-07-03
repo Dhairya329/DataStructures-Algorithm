@@ -10,7 +10,7 @@
 // Time complexity: O(n)
 // Space complexity: O(1)
 
-class Solution {
+class Leetcode1752 {
 
     static boolean check(int[] arr) {
         int drop_count = 0;  // Count how many times the array drops (violates sorted order)
