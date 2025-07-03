@@ -10,7 +10,7 @@
 // Time complexity: O(n)
 // Space complexity: O(n)
 
-class Solution {
+class Leetcode509 {
 
     static int fib(int n) {
 
