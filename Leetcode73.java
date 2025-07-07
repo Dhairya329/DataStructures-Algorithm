@@ -13,7 +13,7 @@
 import java.util.List;
 import java.util.ArrayList;
 
-class Solution {
+class Leetcode73 {
     static void setZeroes(int[][] matrix) {
 
         List<Integer> row = new ArrayList<>();     // store row indices where 0 is found
