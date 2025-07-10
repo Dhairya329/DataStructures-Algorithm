@@ -10,7 +10,7 @@
 // Time Complexity: O(log n)     // we divide n by 4 in each step
 // Space Complexity: O(1)        
 
-class Solution {
+class Leetcode342 {
     static boolean isPowerOfFour(int n) {
 
         // must be a positive number
@@ -28,7 +28,7 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        
+
         int n = 1;
         isPowerOfFour(n);
     }
