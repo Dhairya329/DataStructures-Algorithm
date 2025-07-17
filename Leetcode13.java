@@ -49,6 +49,7 @@ class Leetcode13 {
         Scanner sc = new Scanner(System.in);
         str = sc.nextLine();     
 
-        romanToInt(str);        
+        romanToInt(str);  
+        sc.close();      
     }
 }
