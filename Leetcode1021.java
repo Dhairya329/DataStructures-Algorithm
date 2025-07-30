@@ -7,10 +7,6 @@
  * 
  */
 
-// Time Complexity: O(n log n)
-// Space Complexity: O(1)
-
-// Problem -49
 // Time Complexity: O(n)
 // Space Complexity: O(1)
 
