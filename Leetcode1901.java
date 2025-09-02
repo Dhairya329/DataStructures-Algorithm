@@ -19,7 +19,6 @@ class Leetcode1901 {
         int start = 0;               
         int end = n - 1;             
         int[] arr = { -1, -1 };      
-
         while (start <= end) {
             int mid = start + (end - start) / 2;   
             int index = findMax(mat, mid, m, n);   // row of max element in mid col
