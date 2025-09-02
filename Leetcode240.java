@@ -22,10 +22,8 @@ class Leetcode240 {
             
             // Found the target
             if(matrix[row][col] == target) return true; 
-            
             // If current number is smaller then move down
             else if(matrix[row][col] < target) row++;
-            
             // If current number is larger then move left
             else col--;
         }
