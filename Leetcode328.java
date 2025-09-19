@@ -23,7 +23,7 @@ class Leetcode328 {
         }
     }
 
-    static ListNode oddEvenList(ListNode head) {
+    ListNode oddEvenList(ListNode head) {
 
         if (head == null) return null; // empty list check
 
