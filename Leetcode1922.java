@@ -7,8 +7,8 @@
  * 
  */
 
-// Time Complexity: O(n)
-// Space Complexity: O(1)
+// Time Complexity: O(log n)
+// Space Complexity: O(log n)
 
 class Leetcode1922 {
 
