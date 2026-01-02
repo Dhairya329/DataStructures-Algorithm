@@ -26,7 +26,7 @@ This is not just about solving problems — it’s about building a strong found
 
 ---
 ## 🎯 Goals
-- Solve one or more LeetCode problems daily
+- Solve five or more LeetCode problems per week
 - Improve DSA + problem-solving skills
 - Document and share clear, well-explained solutions
 - Prepare for top-tier software engineering roles
