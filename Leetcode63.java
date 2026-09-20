@@ -29,7 +29,7 @@ class Leetcode63 {
                     dp[row][col] = 0;
                     continue;
                 }
-                
+
                 if (row == 0 && col == 0) {
                     dp[row][col] = 1;
                     continue;
