@@ -10,7 +10,7 @@
 // Time Complexity: O(n)
 // Space Complexity: O(1)
 
-// Dynamic Programming(Tabulation method)
+// Greedy Approach
 class Leetcode122 {
     static int maxProfit(int[] prices) {
 
